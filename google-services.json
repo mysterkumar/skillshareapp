@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769532111356",
+    "project_id": "skillshareapp-a469d",
+    "storage_bucket": "skillshareapp-a469d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769532111356:android:b4ba8227cf662670ab2a79",
+        "android_client_info": {
+          "package_name": "com.mysterkumar.skillshareapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0sobtEx3UFzP_yfswHFCUjjw8LNlBQrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
